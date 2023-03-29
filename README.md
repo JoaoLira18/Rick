@@ -14,7 +14,7 @@ Tolls:
 - React Native Vector Icons
 
 <div>
-  <img src="https://user-images.githubusercontent.com/75041514/192328400-1d3c46fc-02c1-4a7b-bc6c-5f120b11d0a1.png" width="240px" style="padding: 20px" />
+  <img src="https://user-images.githubusercontent.com/75041514/192328400-1d3c46fc-02c1-4a7b-bc6c-5f120b11d0a1.png" width="240px" style="padding: 50px" />
   <img src="https://user-images.githubusercontent.com/75041514/192328612-80f95dc6-073b-4a7f-87cb-124a3e588cdc.png" width="240px" />
 </div>
 <div>
